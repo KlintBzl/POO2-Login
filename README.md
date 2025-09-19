@@ -3,7 +3,7 @@
 O banco de dados utilizado é o SGDB;
 
 Certifique-se de que o nome do seu banco de dados seja o mesmo do especificado no link ou vice-versa,
-assi como as outras informações abaixo do mesmo na classe "ConexaoDAO";
+assim como as outras informações abaixo do mesmo na classe "ConexaoDAO";
 
 Nesta primeira fase, o sistema de cadastro e login ainda nao está funcional, então não estranhe caso o sistema nao efetue nada;
 
