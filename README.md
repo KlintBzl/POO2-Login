@@ -1,3 +1,5 @@
+# Parte 1
+
 ## Bem vindo!
 
 O banco de dados utilizado é o SGDB;
@@ -17,3 +19,9 @@ Nesta primeira fase, o sistema de cadastro e login ainda nao está funcional, en
 
 ### Fique atento!
 Se a segunda imagem for o que apareceu para você, então você deve verificar se todas as informações estão corretas!
+
+# Parte 2
+
+## Olá de novo!
+
+Nesta fase, o sistema de login já está funcionando e abre uma simples tela principal onde futuramente abrirá acesso a outras telas
