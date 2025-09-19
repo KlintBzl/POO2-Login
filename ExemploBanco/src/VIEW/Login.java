@@ -2,8 +2,6 @@
 package VIEW;
 
 import DAO.ConexaoDAO;
-import DAO.UsuarioDAO;
-import DTO.UsuarioDTO;
 import java.awt.*;
 import java.sql.*;
 import javax.swing.*;
@@ -11,7 +9,6 @@ import javax.swing.*;
 public class Login extends javax.swing.JFrame {
 
     Connection conexao = null;
-    Cadastro cadastro = new Cadastro();
     
     public Login() {
          
@@ -115,18 +112,7 @@ public class Login extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnLoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLoginActionPerformed
-
-        
-        String login = txtLogin.getText();
-        String senha = txtSenha.getText();
-        UsuarioDTO objUsuarioDTO = new UsuarioDTO();
-        objUsuarioDTO.setLogin(login);
-        objUsuarioDTO.setSenha(senha);
-        
-        UsuarioDAO objUsuarioDAO = new UsuarioDAO();
-        
-        objUsuarioDAO.logar(objUsuarioDTO);
-       this.dispose();
+JOptionPane.showMessageDialog(null, "asdfkbaIDFUJ");
     }//GEN-LAST:event_btnLoginActionPerformed
 
     public static void main(String args[]) {
