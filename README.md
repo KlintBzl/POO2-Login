@@ -1,11 +1,9 @@
-# Parte 1
-
 ## Bem vindo!
 
 O banco de dados utilizado é o SGDB;
 
 Certifique-se de que o nome do seu banco de dados seja o mesmo do especificado no link ou vice-versa,
-assi como as outras informações abaixo do mesmo na classe "ConexaoDAO";
+assim como as outras informações abaixo do mesmo na classe "ConexaoDAO";
 
 Nesta primeira fase, o sistema de cadastro e login ainda nao está funcional, então não estranhe caso o sistema nao efetue nada;
 
@@ -19,9 +17,3 @@ Nesta primeira fase, o sistema de cadastro e login ainda nao está funcional, en
 
 ### Fique atento!
 Se a segunda imagem for o que apareceu para você, então você deve verificar se todas as informações estão corretas!
-
-# Parte 2
-
-## Olá de novo!
-
-Nesta fase, o sistema de login já está funcionando e abre uma simples tela principal onde futuramente abrirá acesso a outras telas
